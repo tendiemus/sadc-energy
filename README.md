@@ -20,8 +20,8 @@ Power BI and Google Sheets data visualisation
 **SADC ENERGY**
 
 **Code**: Analyzing the expansion and adoption of Renewable Energy in SADC
-**Goal**: 
-- Assess regional support to sustainability.
+
+**Goal**: - Assess regional support to sustainability.
 - Identify market gaps (e.g., countries not partaking in solar adoption).
 - Link climate trends (temperature rise) to use of solar power.
 
@@ -35,8 +35,8 @@ Power BI and Google Sheets data visualisation
 
 **SADC HIV**
 **Code**:   Analyzing the widespread and negative impact of HIV in SADC
-**Goal**:   
-  - Investigate correlations between HIV prevalence and socioeconomic factors (birth rates, death rates).
+
+**Goal**:    - Investigate correlations between HIV prevalence and socioeconomic factors (birth rates, death rates).
   - Prioritize interventions by ranking countries based on infection rates and growth trends.
 
 **Description**: As HIV/AIDS spreads rapidly across Southern Africa. This research investigates its correlations with birth rates, death rates, and unemployment. Over a ten year period 2015-2025  infection trends are being tracked whilst countries are ranked by prevalence. The study generates data-driven insights to inform effective public health strategies for at-risk populations. 
