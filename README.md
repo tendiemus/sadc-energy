@@ -33,7 +33,8 @@ Power BI and Google Sheets data visualisation
 **Results**: SADC countries with low solar energy usage — where the majority of the population lacks access — require targeted investment to narrow the energy gap. Stabilising rising mean temperatures and adopting benchmarking practices from solar leaders (like the top 3) are critical to avoid lagging in renewable energy adoption.
 
 **SADC HIV**
-**Code**:   Analyzing the widespread and negative impact of HIV in SADC
+
+**Code**:  Analyzing the widespread and negative impact of HIV in SADC
 
 **Goal**:  - Investigate correlations between HIV prevalence and socioeconomic factors (birth rates, death rates).
      - Prioritize interventions by ranking countries based on infection rates and growth trends.
