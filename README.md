@@ -1,5 +1,6 @@
 # sadc-energy
 **About**
+    
     Hi, I’m Tendeso! An Economics graduate with hands-on experience as a Data Research Analyst intern at tech-driven firms specialising in telecoms, energy, and VC. My journey as an entry-level Data Specialist sharpened my techinical   ability to transform raw data into actionable insights—from spotting patterns in market trends to optimizing deal pipelines. Skilled in statistical analysis and cross-functional collaboration, I thrive on solving complex problems with data-driven
 precision.
 
@@ -18,8 +19,7 @@ Power BI and Google Sheets data visualisation
 
 **SADC ENERGY**
 
-**Code**:   
-Analyzing the expansion and adoption of Renewable Energy in SADC
+**Code**: Analyzing the expansion and adoption of Renewable Energy in SADC
 **Goal**: 
 - Assess regional support to sustainability.
 - Identify market gaps (e.g., countries not partaking in solar adoption).
