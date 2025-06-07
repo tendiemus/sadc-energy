@@ -49,4 +49,4 @@ Power BI and Google Sheets data visualisation
 **Results:** SADC countries with the highest high HIV rates (Eswatini, Lesotho, and South Africa) require more educational campaigns addressing polygamous relationships (identified in high-risk households with 2+ partners), effective policies to reduce unemployment (correlated with higher infection rates), and emergency healthcare funding to lower mortality rates (linked to HIV-birth rate overlaps).
 
 **Contacts**
-  Email: tlmusimwa@gmail.com
+  Email: tendeso@icloud.com
