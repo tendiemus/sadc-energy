@@ -22,8 +22,8 @@ Power BI and Google Sheets data visualisation
 **Code**: Analyzing the expansion and adoption of Renewable Energy in SADC
 
 **Goal**: - Assess regional support to sustainability.
-- Identify market gaps (e.g., countries not partaking in solar adoption).
-- Link climate trends (temperature rise) to use of solar power.
+        - Identify market gaps (e.g., countries not partaking in solar adoption).
+        - Link climate trends (temperature rise) to use of solar power.
 
 **Description**: As the world becomes more involved in the sustainable energy sector. This project explores whether the Sub-Saharan region is becoming more supportive of renewable energy, particularly solar power, and if its population is environmentally conscious as a response to increasing climate change and load shedding. The project aims to identify market gaps, forecast solar energy growth, and provide strategic recommendations for sustainable energy planning.
 
@@ -37,7 +37,7 @@ Power BI and Google Sheets data visualisation
 **Code**:   Analyzing the widespread and negative impact of HIV in SADC
 
 **Goal**:    - Investigate correlations between HIV prevalence and socioeconomic factors (birth rates, death rates).
-  - Prioritize interventions by ranking countries based on infection rates and growth trends.
+              - Prioritize interventions by ranking countries based on infection rates and growth trends.
 
 **Description**: As HIV/AIDS spreads rapidly across Southern Africa. This research investigates its correlations with birth rates, death rates, and unemployment. Over a ten year period 2015-2025  infection trends are being tracked whilst countries are ranked by prevalence. The study generates data-driven insights to inform effective public health strategies for at-risk populations. 
 
