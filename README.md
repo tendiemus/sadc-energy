@@ -8,7 +8,7 @@ I enjoy applying **SQL**, **Excel**, **Power BI**, and **Google Sheets** to solv
 ---
 
 
-## 📁 Table of Contents
+## Table of Contents
 
 
 - [SQL Projects](#sql-projects)
@@ -83,7 +83,7 @@ This project investigates energy usage and accessibility across Southern African
 - **Targeted investment** in solar could reduce energy poverty by 30% by 2035.
 
 
-### 📉 Key Visuals
+### Key Visuals
 
 
 ![Energy Access Over Time](https://docs.google.com/spreadsheets/d/1rDtZcHvEMHyRYygffXpq7jB9Jpc59a343XueaGBlaHM/edit?gid=1547425630#gid=1547425630)  
@@ -119,7 +119,7 @@ This project explores the negative effects of HIV/AIDS in Southern Africa by ana
 
 ---
 
-### 📉 Key Visuals
+### Key Visuals
 
 
 ![Rise in HIV & Death rate Over Time](https://docs.google.com/spreadsheets/d/1QYdgnPt35rtxLBuZAh4nDHcaGroG5aUv0tc8yFnX2Bc/edit?gid=1752834350#gid=1752834350)  
@@ -138,5 +138,8 @@ This project explores the negative effects of HIV/AIDS in Southern Africa by ana
 - [WHO Global Health Observatory](https://www.who.int/data/gho)
 - [World Bank Open Data](https://data.worldbank.org)
 
+## How to Contribute  
+- Fork the repo and submit PRs for new analyses.  
+- Report issues [here](https://github.com/tendiemus/sadc-energy/issues).  
 ##  Contacts
 -   Email: tendeso@icloud.com
