@@ -1,99 +1,131 @@
-# sadc-energy
-**About**
-
-Hi, I’m Tendeso! An Economics graduate with hands-on experience as a Data Research Analyst intern at tech-driven firms specialising in telecoms, energy, and VC. My journey as an entry-level Data Specialist sharpened my techinical   ability to transform raw data into actionable insights—from spotting patterns in market trends to optimizing deal pipelines. Skilled in statistical analysis and cross-functional collaboration, I thrive on solving complex problems with data-driven
-precision.
-
-Table of Contents
-  
-  SQL
-
-  - SADC ENERGY Data Exploration, Aggregation, Transformation,  Conditional filtering 
-
-    https://onecompiler.com/postgresql/43m37dh7x
-  
- - SADC HIV Housing Data Cleaning, Boolean filtering, Time Series Analysis
- 
-      https://onecompiler.com/postgresql/43m37guzx 
- 
-  Excel / Google Sheets
- 
-  Power BI and Google Sheets data visualisation
+Hi, I’m Tendeso!  
+An Economics graduate with hands-on experience as a **Data Research Analyst intern** at tech-driven firms in **telecoms, energy, and venture capital**. As an entry-level **Data Specialist**, I’ve developed the technical ability to transform raw data into actionable insights — from spotting patterns in market trends to optimizing deal pipelines.  
 
 
-**Portfolio Projects**
-
- In this section I will list data analytics projects briefly describing the technology stack used to     solve cases.
-
-**SADC ENERGY**
-
-**Topic**: Analyzing the expansion and adoption of Renewable Energy in SADC
-
-**Goal**:
-
-- Assess regional support to sustainability.
-- Identify market gaps (e.g., countries not partaking in solar adoption).
-- Link climate trends (temperature rise) to use of solar power.
-
-**Description**: As the world becomes more involved in the sustainable energy sector. This project explores whether the Sub-Saharan region is becoming more supportive of renewable energy, particularly solar power, and if its population is environmentally conscious as a response to increasing climate change and load shedding. The project aims to identify market gaps, forecast solar energy growth, and provide strategic recommendations for sustainable energy planning.
-
-**Skills**:  Data cleaning, data analysis, filtering, hypothesis testing, data visualization.
-
-**Technology**: Postgresql, Mysql, Excel, Google sheets, Power BI, Perplexity AI
-
-**Results**: 
-
-- SADC countries with low solar energy usage — where the majority of the population lacks access — require targeted investment to narrow the energy gap.
-
--   Stabilising rising mean temperatures and adopting benchmarking practices from solar leaders (like the top 3) are critical to avoid lagging in renewable energy adoption.
-
-**Key findings**:  
-Solar Adoption:
-
-- Gap is over 39% of the SADC population lacks private solar access (population with zero solar capacity in data).
-
-Hydro Dependence:
-
-- Mozambique (population >5M) relies on hydropower for ~80% of electricity, posing drought risks.
-
-**Data Sources**:
-World Bank Energy Data and 
-IRENA (Renewable Energy)
-
-**SADC HIV**
-
-**Topic**: Analyzing the widespread and negative impact of HIV in SADC
-
-**Goal**:
-
-- Investigate correlations between HIV prevalence and socioeconomic factors (birth rates, death rates)    
-- Prioritize interventions by ranking countries based on infection rates and growth trends.
-
-**Description**: As HIV/AIDS spreads rapidly across Southern Africa. This research investigates its correlations with birth rates, death rates, and unemployment. Over a ten year period 2015-2025  infection trends are being tracked whilst countries are ranked by prevalence. The study generates data-driven insights to inform effective public health strategies for at-risk populations. 
+I enjoy applying **SQL**, **Excel**, **Power BI**, and **Google Sheets** to solve real-world problems. My specialty? Using **data storytelling** and **statistical analysis** to uncover patterns that inform sustainable development and public health strategies in Southern Africa.
 
 
-**Skills**: Data Cleaning, Boolean filtering, Time Series Analysis, data visualization.
+---
 
-**Technology**: Postgresql, Mysql, Excel, Google sheets, Power BI, Perplexity AI
 
-**Results:** 
+## 📁 Table of Contents
 
-- SADC countries with the highest high HIV rates (Eswatini, Lesotho, and South Africa) require more educational campaigns addressing polygamous relationships (identified in high-risk households with 2+ partners).
 
-- As well as effective policies to reduce unemployment (correlated with higher infection rates), and emergency healthcare funding to lower mortality rates (linked to HIV-birth rate overlaps).
+- [SQL Projects](#sql-projects)
+- [Excel / Sheets Visuals](#excel--google-sheets)
+- [Portfolio Projects](#portfolio-projects)
+  - [🔋 SADC Energy Access & Future Expansion](#-sadc-energy-access--future-expansion)
+  - [🦠 SADC HIV Socioeconomic Impact Analysis](#-sadc-hiv-socioeconomic-impact-analysis)
+- [📈 Tools Used](#-tools-used)
+- [📎 Data Sources](#-data-sources)
+- [🧪 Future Work](#-future-work)
 
-**Key findings**:  
 
-Socioeconomic Links:
+---
 
-- Household Risk: 15% of households with 2+ partners and 2+ children fall in the 10–20% HIV risk bracket.
 
-Demographics:
+## 💻 SQL Projects
 
-- HIV-burdened nations also show elevated death rates (e.g., Eswatini 
 
-**Data Sources**:
-UNAIDS and WHO Global Health Observatory
+- [SADC ENERGY: Exploration, Aggregation, Conditional Filtering](https://onecompiler.com/postgresql/43m37dh7x)
+- [SADC HIV: Data Cleaning, Boolean Filtering, Time Series Analysis](https://onecompiler.com/postgresql/43m37guzx)
 
-**Contacts**
-  Email: tendeso@icloud.com
+
+---
+
+
+## 📊 Excel / Google Sheets
+
+
+- Data wrangling, line charts, and dashboards
+- Public links to Google Sheets dashboards coming soon
+
+
+---
+
+
+## 📌 Portfolio Projects
+
+
+---
+
+
+## 🔋 SADC Energy Access & Future Expansion – Data Analysis Project
+
+
+### 📌 Overview
+This project investigates energy usage and accessibility across Southern African Development Community (SADC) countries. It explores which regions lag in energy access and where future expansion could have the most impact.
+
+
+### 🎯 Objective
+- Assess regional support for sustainability.
+- Identify countries not partaking in solar adoption.
+- Link climate trends (temperature rise) to the adoption of solar energy.
+
+
+### 🧰 Tools Used
+- SQL Compiler
+- Google Sheets
+- Excel
+- Power BI
+- Perplexity AI
+
+
+### 🗂️ Data Sources
+- [World Bank Energy Data](https://data.worldbank.org)
+- [IRENA Renewable Capacity Statistics](https://www.irena.org)
+- [SADC Energy Reports (2020–2023)](https://www.sadc.int)
+
+
+### 📊 Key Insights
+- **48% of rural SADC residents lack regular electricity access.**
+- **Zambia and Malawi** show high solar potential but low adoption.
+- **Targeted investment** in solar could reduce energy poverty by 30% by 2035.
+- **Hydropower Risk**: Mozambique relies on hydro for ~80% of electricity; drought vulnerability is high.
+
+
+### 📉 Key Visuals
+
+
+![Energy Access Over Time](images/energy_trend_chart.png)  
+*Fig 1: Energy access percentage across 6 key SADC nations (2015–2024)*
+
+
+![Investment Potential](images/investment_potential_map.png)  
+*Fig 2: Geographic potential for solar energy investment*
+
+
+---
+
+
+## 🦠 SADC HIV Socioeconomic Impact Analysis
+
+
+### 📌 Overview
+This project explores the negative effects of HIV/AIDS in Southern Africa by analyzing links between HIV rates, death rates, birth rates, and household demographics from 2015–2025.
+
+
+### 🎯 Objective
+- Investigate the relationship between HIV prevalence and socioeconomic stressors.
+- Rank countries by infection rates and growth trends.
+- Inform effective public health responses.
+
+
+### 📊 Key Insights
+- **Eswatini, Lesotho, and South Africa** lead in HIV rates.
+- **Polygamous households (2+ partners, 2+ children)** show up to 20% HIV risk.
+- **Unemployment and education gaps** are highly correlated with HIV prevalence.
+- High birth-death overlaps suggest worsening maternal outcomes in affected countries.
+
+
+---
+
+
+## 📎 Data Sources
+
+
+- [UNAIDS Global HIV Data](https://www.unaids.org)
+- [WHO Global Health Observatory](https://www.who.int/data/gho)
+- [World Bank Open Data](https://data.worldbank.org)
+
+
